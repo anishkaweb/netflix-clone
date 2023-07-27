@@ -11,7 +11,7 @@
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
-- [Author](#author)
+
 
 
 ### The challenge
@@ -31,9 +31,7 @@ Users should be able to:
 ![Screenshot 2022-04-23 at 16-29-24 Netflix Login Page](https://user-images.githubusercontent.com/96676832/164891863-4f95684d-79ce-49b8-b77a-aca37c34abb4.png)
 
 
-### Demo
 
-- Live Site : https://clone-netflix-by-priya.netlify.app/
 
 ## My process
 
