@@ -65,7 +65,3 @@ There were many things that I got in touch for the first time. Like:
 - FAQ part : I was unable to make interactions completely similar to design . I did a lot of search and couldn't find a proper way on how to do it. So, did in my way.
 - Floating labels. 
 - Form validation . It was a fun part until you know how to do it. Otherwise, it's really frustrating. I messed up many times while designing error messages but it was a good to go as I learned a lot. 
-
-## Author
-
-- Twitter - [@priya_garg2](https://twitter.com/priya_garg2)
